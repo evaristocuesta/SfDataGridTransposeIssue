@@ -1,4 +1,4 @@
-Syncfusion SfDataGrid issues transpossing the grid
+# Syncfusion SfDataGrid issues transpossing the grid
 
 Example for issue opened in [Syncfusion forum](https://www.syncfusion.com/forums/193831/errors-sorting-and-filtering-when-changing-orientation-of-sfdatagrid)
 
