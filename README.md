@@ -2,7 +2,7 @@
 
 Example for issue opened in [Syncfusion forum](https://www.syncfusion.com/forums/193831/errors-sorting-and-filtering-when-changing-orientation-of-sfdatagrid)
 
-Steps to reproduce sorting error:
+Steps to reproduce sorting error (this error only occurs when we use datagrid with pagination ):
 1. Execute the application
 2. Order a column
 3. Click on transpose button
